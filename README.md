@@ -1,29 +1,31 @@
 <!-- Heading -->
-<h2 align="left">
-  Hi 👋! My name is Nafisa, a software developer with a strong interest in quantum computing!
-</h2>
+<h2 align="left"> ✨ Hi! I'm Nafisa, a computer science graduate and a quantum computing enthusiast. ⚛️</h2>
 
-<!-- Stats & Top Languages Side-by-Side -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=CreativeBinBag&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" 
-          alt="Nafisa Shamim Rafa's GitHub Stats"
-          style="width: 400px;"
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=CreativeBinBag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" 
-          alt="Most Used Languages"
-          style="width: 400px;"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+<h4 align="left">
+
+-  I got into quantum computing a while ago, even though it wasn't part of my undergrad studies. Since then, I've been self-learning through:
+  - 🖥️ IBM’s quantum learning platform  
+  - 🛠️ Personal projects  
+  - 📚 Books  
+  - 🌍 QWorld workshops  
+  - 💻 Open-source contributions  
+  - 🔬 An independent research project  
+
+- 🤝 I'm always looking for ways to connect with the quantum community around the world.  
+
+- 🎯 I found the **Program Support Coordinator** role for the **BeyondQuantum** programme at **ThinkingBeyond** through these connections.  
+
+- **📖 Some recommendations:**  
+  - 🎓 I think **John Watrous' lectures** are a great starting point for beginners.  
+  - 📘 *Quantum Computation and Quantum Information* by **Nielsen and Chuang** – the classic.  
+  - 📗 *Quantum Computing for Computer Scientists* by **Yanofsky and Mannucci** – an easier read.  
+  - 🔢 **Gilbert Strang's lectures** on Linear Algebra anyday, every day.  
+  - 🎥 [**Maths of Quantum Mechanics**](https://www.youtube.com/playlist?list=PL8ER5-vAoiHAWm1UcZsiauUGPlJChgNXC) – Beautiful series. Very *3Blue1Brown* way of gaining intuition on the mathematics of quantum mechanics.  
+  - 🏃‍♂️ A friend said listening to **Leonard Susskind's lectures** on Quantum Mechanics while running on a treadmill can be therapeutic.  
+
+</h4>
+
+
 
 <!-- GIF (centered for consistency, or float it if you prefer) -->
 <div align="center" style="margin: 20px 0;">
@@ -52,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" style="margin-right: 10px;" />
 </div>
-
+<h1></h1>
 <!-- Portfolio Badge -->
 <div align="center" style="margin: 20px 20px;">
   <a href="https://creativebinbag.github.io/Silly-Goose-Portfolio/" target="_blank">
@@ -64,6 +66,7 @@
   </a>
 </div>
 
+<h6></h6>
 
 <!-- Contact Badges -->
 <div align="center" style="margin-bottom: 20px;">
