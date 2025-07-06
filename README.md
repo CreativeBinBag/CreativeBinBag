@@ -3,18 +3,18 @@
 
 <h4 align="left">
 
--  I got into quantum computing a while ago, even though it wasn't part of my undergrad studies. Since then, I've been self-learning through:
-  - 🖥️ IBM’s quantum learning platform  
-  - 🛠️ Personal projects  
-  - 📚 Books  
-  - 🌍 QWorld workshops  
-  - 💻 Open-source contributions  
-  - 🔬 An independent research project  
+I love taking the wild, weird rules of quantum mechanics and convincing them to solve real-world problems with code. I'm bouncing between research, open-source development, and community building, with a soft spot for quantum optimization and information theory.
 
-- 🤝 I'm always looking for ways to connect with the quantum community around the world.  
+Here's what I'm currently excited about:
 
-- 🎯 I found the **Program Support Coordinator** role for the **BeyondQuantum** programme at **ThinkingBeyond** through these connections.  
+- 🔬 **Research:** Throwing really hard problems at quantum annealers to see what sticks. Right now, that's optimizing vehicle routes (CVRPTW) and designing civil engineering layouts without getting a headache.
+  
+- 💻 **Open-Source:** Adding my small piece to the giant puzzle of open-source quantum software, with contributions to <a href="https://github.com/vprusso/toqito">`|toqito⟩`</a> and <a href="https://github.com/munich-quantum-toolkit/bench">`mqt-bench`</a>(you can see my little pixel avatar lurking in mqt-bench's <a href="https://mqt.readthedocs.io/projects/bench/en/latest/"> latest documentation </a>). I am having an amazing time as a **Google Summer of Code (GSoC) '25** contributor with **NumFOCUS** - see my journey in all its glory <a href="https://creativebinbag.github.io/Google-Summer-of-Code-Blog/">right here</a>!
+ 
+- 🌍 **Community Building:** Making sure no one is too scared to start their quantum journey. I co-founded <a href="https://qworld.net/qbangladesh/"> QBangladesh </a> and am building a home for <a href="https://girlsinquantum.com/"> Girls in Quantum </a> in Bangladesh.
 
+- 👨‍🏫 **Teaching & Mentorship:** I truly enjoy the "Aha!" moments in teaching. I've had the privilege of creating a few while instructing Python for **Stanford's** Code in Place and supporting **ThinkingBeyond's BeyondQuantum** program.
+  
 - **📖 Some recommendations:**  
   - 🎓 I think **John Watrous' lectures** are a great starting point for beginners.  
   - 📘 *Quantum Computation and Quantum Information* by **Nielsen and Chuang** – the classic.  
