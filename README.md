@@ -15,13 +15,8 @@ Here's what I'm currently excited about:
 
 - 👨‍🏫 **Teaching & Mentorship:** I truly enjoy the "Aha!" moments in teaching. I've had the privilege of creating a few while instructing Python for **Stanford's** Code in Place and supporting **ThinkingBeyond's BeyondQuantum** program.
   
-- **📖 Some recommendations:**  
-  - 🎓 I think **John Watrous' lectures** are a great starting point for beginners.  
-  - 📘 *Quantum Computation and Quantum Information* by **Nielsen and Chuang** – the classic.  
-  - 📗 *Quantum Computing for Computer Scientists* by **Yanofsky and Mannucci** – an easier read.  
-  - 🔢 **Gilbert Strang's lectures** on Linear Algebra anyday, every day.  
-  - 🎥 [**Maths of Quantum Mechanics**](https://www.youtube.com/playlist?list=PL8ER5-vAoiHAWm1UcZsiauUGPlJChgNXC) – Beautiful series. Very *3Blue1Brown* way of gaining intuition on the mathematics of quantum mechanics.  
-  - 🏃‍♂️ A friend said listening to **Leonard Susskind's lectures** on Quantum Mechanics while running on a treadmill can be therapeutic.  
+
+🏃‍♂️ A friend said listening to **Leonard Susskind's lectures** on Quantum Mechanics while running on a treadmill can be therapeutic.  
 
 </h4>
 
