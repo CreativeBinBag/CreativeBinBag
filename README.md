@@ -11,7 +11,7 @@ Here's what I'm currently excited about:
   
 - 💻 **Open-Source:** Adding my small piece to the giant puzzle of open-source quantum software, with contributions to `|toqito⟩` and `mqt-bench` (you can see my little pixel avatar lurking in mqt-bench's <a href="https://mqt.readthedocs.io/projects/bench/en/latest/"> latest documentation </a>). I am having an amazing time as a **Google Summer of Code (GSoC) '25** contributor with **NumFOCUS** - see my journey in all its glory <a href="https://creativebinbag.github.io/Google-Summer-of-Code-Blog/">right here</a>!
  
-- 🌍 **Community Building:** Making sure no one is too scared to start their quantum journey. I coordinate <a href="https://qworld.net/qbangladesh/"> QBangladesh </a> and am building a home for <a href="https://girlsinquantum.com/"> Girls in Quantum </a> in Bangladesh.
+- 🌍 **Community Building:** Making sure no one is too scared to start their quantum journey. Trying to build a home for <a href="https://girlsinquantum.com/"> Girls in Quantum </a> in Bangladesh.
 
 - 👨‍🏫 **Teaching & Mentorship:** I truly enjoy the "Aha!" moments in teaching. I've had the privilege of creating a few while instructing Python for **Stanford's** Code in Place and supporting **ThinkingBeyond's BeyondQuantum** program.
   
