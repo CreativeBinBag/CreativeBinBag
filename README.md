@@ -1,25 +1,24 @@
-<!-- Heading -->
-<h2 align="left"> ✨ Hi! I'm Nafisa, a computer science graduate and a quantum computing enthusiast. ⚛️</h2>
+<h2 align="left">Hi! I'm Nafisa — thanks for stopping by 👋</h2>
 
 <h4 align="left">
 
-I love taking the wild, weird rules of quantum mechanics and convincing them to solve real-world problems with code. I'm bouncing between research, open-source development, and community building, with a soft spot for quantum optimization and information theory.
+Most days, I’m trying to take the strange rules of quantum mechanics and make them behave long enough to solve practical problems with code. I move between research, open-source development, and community work, with a particular interest in quantum algorithms and quantum information theory.
 
-Here's what I'm currently excited about:
+Here’s what I’ve been spending my time on lately:
 
-- 🔬 **Research:** Throwing really hard problems at quantum annealers to see what sticks. Right now, that's optimizing vehicle routes (CVRPTW) and designing civil engineering layouts without getting a headache.
-  
-- 💻 **Open-Source:** Adding my small piece to the giant puzzle of open-source quantum software, with contributions to `|toqito⟩` and `mqt-bench` (you can see my little pixel avatar lurking in mqt-bench's <a href="https://mqt.readthedocs.io/projects/bench/en/latest/"> latest documentation </a>). I am having an amazing time as a **Google Summer of Code (GSoC) '25** contributor with **NumFOCUS** - see my journey in all its glory <a href="https://creativebinbag.github.io/Google-Summer-of-Code-Blog/">right here</a>!
- 
-- 🌍 **Community Building:** Making sure no one is too scared to start their quantum journey. Trying to build a home for <a href="https://girlsinquantum.com/"> Girls in Quantum </a> in Bangladesh.
+- 🔬 <b>Research</b>: Exploring how far we can push quantum annealing for real optimization problems. Right now, that means working on vehicle routing with time windows (CVRPTW) and experimenting with quantum and hybrid approaches for civil engineering layout design.
 
-- 👨‍🏫 **Teaching & Mentorship:** I truly enjoy the "Aha!" moments in teaching. I've had the privilege of creating a few while instructing Python for **Stanford's** Code in Place and supporting **ThinkingBeyond's BeyondQuantum** program.
-  
+- 💻 <b>Open Source</b>: Contributing to open-source quantum software, mainly <code>|toqito⟩</code> and <code>mqt-bench</code>. I was a <b>Google Summer of Code (GSoC) 2025</b> contributor with <b>NumFOCUS</b>, documenting and extending <code>|toqito⟩</code>. I’ve written about the experience <a href="https://creativebinbag.github.io/Google-Summer-of-Code-Blog/">here</a>, including the parts where things break before they work.
 
-🏃‍♂️ A friend said listening to **Leonard Susskind's lectures** on Quantum Mechanics while running on a treadmill can be therapeutic.  
+- 🌍 <b>Community</b>: I care a lot about making quantum feel less intimidating. I’m helping grow <a href="https://girlsinquantum.com/">Girls in Quantum</a>. particularly in Bangladesh, and creating spaces where people can start learning without feeling like they don’t belong.
+
+- 👩‍🏫 <b>Teaching & Mentorship</b>: I enjoy teaching quite a bit, especially the moment when something finally clicks. I’ve taught the fundamentals of Python programming through Stanford’s Code in Place and supported students in ThinkingBeyond’s BeyondQuantum program.
+
+<p>
+My friend told me that listening to Leonard Susskind’s quantum mechanics lectures while running on a treadmill is… oddly calming. I can’t say they were wrong.
+</p>
 
 </h4>
-
 
 
 <!-- GIF (centered for consistency, or float it if you prefer) -->
